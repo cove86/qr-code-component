@@ -26,6 +26,8 @@ body {
   font-family: "Outfit", sans-serif;
   font-size: 1.5rem;
   color: black;
+
+  box-shadow: 0.2rem 0.2rem 0.8rem #888;
 }
 
 img {
